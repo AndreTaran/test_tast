@@ -1,0 +1,8 @@
+<div class="card">
+    <div>original string: <span [ngClass]="{
+        text: textClass === 'text',
+        red: textClass === 'red',
+        green: textClass === 'green',
+        none: textClass === 'none'
+    }">{{ origin }}</span></div>
+</div>

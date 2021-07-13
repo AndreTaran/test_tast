@@ -1,0 +1,28 @@
+.card {
+    width: 300px;
+    padding: 5px;
+    margin: 0 auto;
+    margin-top: 20px;
+    
+    border: 3px solid #555;
+    border-radius: 10px;
+    
+    font-size: 20px;
+    text-align: center;
+}
+
+.text {
+    color: #333;
+}
+
+.red {
+    color: #f33;
+}
+
+.green {
+    color: #3f3;
+}
+
+.none {
+    display: none;
+}
